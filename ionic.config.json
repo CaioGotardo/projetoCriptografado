@@ -1,0 +1,7 @@
+{
+  "name": "CRIPTOGRAFIA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
